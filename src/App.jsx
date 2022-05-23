@@ -17,9 +17,9 @@ const App = () => {
           </div>
 
           <div className="mt-5 bg-Very-pale-orange w-full rounded-xl py-7">
-            <p className="text-Dark-brown font-Dm-Dans px-5 font-semibold text-3xl">
+            <h1 className="text-Dark-brown font-Dm-Dans px-5 font-semibold text-3xl">
               Spending - Last 7 days
-            </p>
+            </h1>
 
             <Section />
 
